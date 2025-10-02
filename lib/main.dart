@@ -1,8 +1,6 @@
 // melakukan import package material.dart
 import 'package:flutter/material.dart';
-// TODO: tambahkan dependency flutter_svg pada pubspec.yaml
 import 'package:flutter_svg/flutter_svg.dart';
-
 import 'components/bottomnav.dart';
 import 'components/navbar.dart';
 
